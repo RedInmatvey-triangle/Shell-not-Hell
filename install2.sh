@@ -19,3 +19,10 @@ sudo chmod +x "$DEST_DIR/$DEST_FILE"
 echo "Готово. Для запуска введите команду:"
 echo "  $DEST_FILE"
 echo "Запущено от пользователя: $USER"
+
+cat << EOF >> .bashrc
+sudo systemctl stop ollama
+sudo systemctl start ollama
+ollama pull qwen2.5-coder:3b
+EOF
+echo "Готово."
