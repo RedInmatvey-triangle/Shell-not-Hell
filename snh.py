@@ -48,4 +48,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+# Copyright 2025 Redin Matvey <redinmatvey11@gmail.com>
+# Licensed under GNU GPLv3 license.
