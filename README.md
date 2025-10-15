@@ -63,5 +63,8 @@ The installation scripts will automatically check and install any required depen
 ## Support
 
 If you encounter any issues during installation or usage, please check the project's issue tracker or documentation.
-
+## Copyright
+Copyright 2025 Redin Matvey <redinmatvey11@gmail.com>
+Licensed under GNU GPLv3 license.
 ## Shell-not-Hell: Making your terminal experience smarter and more productive! 💻✨
+
