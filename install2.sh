@@ -25,6 +25,7 @@ sudo systemctl stop ollama
 sudo systemctl start ollama
 ollama pull qwen2.5-coder:3b
 EOF
+sudo rm -rf install2.sh
 echo "Готово."
 # Copyright 2025 Redin Matvey <redinmatvey11@gmail.com>
 # Licensed under GNU GPLv3 license.
